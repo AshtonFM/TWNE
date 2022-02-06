@@ -1,2 +1,2 @@
 # TWNE
-The Will Needed Extension (TWNE) Is a visual studio extension
+The Well Needed Extension (TWNE) Is a visual studio extension
